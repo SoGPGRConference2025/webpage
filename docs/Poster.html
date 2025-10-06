@@ -108,6 +108,10 @@ ul.task-list li input[type="checkbox"] {
     <a class="dropdown-item" href="./Poster.html">
  <span class="dropdown-text">Poster</span></a>
   </li>  
+        <li>
+    <a class="dropdown-item" href="./lightning.html">
+ <span class="dropdown-text">Lightning Talk</span></a>
+  </li>  
     </ul>
   </li>
   <li class="nav-item dropdown ">
@@ -277,7 +281,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/paddysmith99\.github\.io\/SoG_PGR-Conference-2024-Website\/");
+      var filterRegex = new RegExp("https:\/\/SoGPGRConference2025\.github\.io\/SoG_PGR-Conference-2025-Webpage\/");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }

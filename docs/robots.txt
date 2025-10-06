@@ -1,1 +1,1 @@
-Sitemap: https://paddysmith99.github.io/SoG_PGR-Conference-2024-Website/sitemap.xml
+Sitemap: https://SoGPGRConference2025.github.io/SoG_PGR-Conference-2025-Webpage/sitemap.xml
